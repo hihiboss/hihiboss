@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 -->
 
 ### Backend Developer
-- I'm job hunting now!
+- [HAECHI-LABS] Product Team Backend Engineer
 
 #### 💻 Skill
 - Java, Golang, Python, Swift
