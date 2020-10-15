@@ -17,16 +17,19 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Backend Developer
-- [HAECHI-LABS] Product Team Backend Engineer
+## Junhui Kim
+### 💼 Work
+- [[HAECHI-LABS]](https://henesis.io/) Backend Engineer (Skilled Industry Personnel), Product Team
 
-#### 💻 Skill
+### 💻 Skill
 - Java, Golang, Python, Swift
 - Spring, Blockchain
 
-#### 🧑‍💻 Team
-- [DE-labtory](https://github.com/DE-labtory)
-- [NEXTERS](https://github.com/Nexters)
+### 🧑‍💻 Team
+- [[DE-labtory]](https://github.com/DE-labtory) Blockchain Opensource Community
+- [[NEXTERS]](http://teamnexters.com/) with Developer & Designer
+
+***A long life may not be good enough, but a good life is long enough.***
 
 <div align=center>
 
