@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 > ***A long life may not be good enough, but a good life is long enough.***
 
 ### 💼 Work
-- [[HAECHI-LABS]](https://henesis.io/) Backend Engineer (Skilled Industry Personnel), Product Team
+- [[HAECHI-LABS]](https://haechi.io/) Backend Engineer (Skilled Industry Personnel), Product Team
 
 ### 💻 Skill
 - Java, Golang, Python, Swift
