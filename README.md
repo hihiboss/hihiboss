@@ -22,7 +22,8 @@ Here are some ideas to get you started:
 > ***A long life may not be good enough, but a good life is long enough.***
 
 ### 💼 Work
-- [[HAECHI-LABS]](https://haechi.io/) Product Manager, [Henesis](https://henesis.io/) R&D Team (2022.02 ~ )
+- [[HAECHI-LABS]](https://haechi.io/) Product Manager, Face Wallet (2022.05 ~ )
+- [[HAECHI-LABS]](https://haechi.io/) Product Manager, [Henesis](https://henesis.io/) R&D Team (2022.02 ~ 2022.05)
 - [[HAECHI-LABS]](https://haechi.io/) Software Engineer, [Henesis](https://henesis.io/) R&D Team (2020.08 ~ 2022.02)
 
 ### 💻 Skill
