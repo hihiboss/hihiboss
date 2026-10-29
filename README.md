@@ -22,7 +22,8 @@ Here are some ideas to get you started:
 > ***A long life may not be good enough, but a good life is long enough.***
 
 ### 💼 Work
-- [[KODA(Korea Digital Asset)]](https://kodax.com/) Product Manager & Business Development Manager, [Custody Service](https://kodax.com/) (2024.05 ~ )
+- [[KODA(Korea Digital Asset)]](https://kodax.com/) Chief Operating Officer, [Custody Service](https://kodax.com/) (2026.01 ~ )
+- [[KODA(Korea Digital Asset)]](https://kodax.com/) Product Manager & Business Development Manager, [Custody Service](https://kodax.com/) (2024.05 ~ 2025.12)
 - [[HAECHI-LABS]](https://haechi.io/) Product Owner, [Face Wallet](https://facewallet.xyz/) (2022.05 ~ 2024.02)
 - [[HAECHI-LABS]](https://haechi.io/) Product Owner, [Henesis](https://henesis.io/) R&D Team (2022.02 ~ 2022.05)
 - [[HAECHI-LABS]](https://haechi.io/) Software Engineer, [Henesis](https://henesis.io/) R&D Team (2020.08 ~ 2022.02)
